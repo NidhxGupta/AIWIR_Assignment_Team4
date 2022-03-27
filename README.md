@@ -1,6 +1,6 @@
 # AIWIR_Assignment_Team4
 
-Done by:- 
+# Done by:- 
 
     Name                SRN                 Section
     Manoj Kumar         PES2UG19CS222       D
@@ -12,5 +12,5 @@ Done by:-
 
 2. Amazon Fine Foods Reviews [https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews]
 
-3. financial-sentiment-analysis [https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis]
+3. Financial Sentiment Analysis [https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis]
 
