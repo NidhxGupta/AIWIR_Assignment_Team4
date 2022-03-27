@@ -3,9 +3,9 @@
 Done by:- 
 
     Name                SRN                 Section
+    Manoj Kumar         PES2UG19CS222       D
     Nidhi Gupta         PES2UG19CS256       D
     Nikhil M Adyapak    PES2UG19CS257       D
-    Manoj Kumar         PES2UG19CS222       D
 
 # Datasets used:
 1. Hotel Reviews [https://www.kaggle.com/datasets/andrewmvd/trip-advisor-hotel-reviews]
