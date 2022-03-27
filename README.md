@@ -1,6 +1,6 @@
 # AIWIR_Assignment_Team4
 
-# Done by:- 
+# Done by: 
 
     Name                SRN                 Section         Assignment
     Manoj Kumar         PES2UG19CS222       D                   1
